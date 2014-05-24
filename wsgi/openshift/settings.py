@@ -14,6 +14,8 @@ import imp
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 
+PROJECT_PATH = os.path.abspath(os.path.dirname(__file__))
+
 ON_OPENSHIFT = False
 if os.environ.has_key('OPENSHIFT_REPO_DIR'):
      ON_OPENSHIFT = True
@@ -67,6 +69,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',  # to enable messages framework (see :ref:`Enable messages <enable-messages>`)
     'djangocms_file',
     'djangocms_flash',
+
     #'cms.plugins.googlemap',
     #'cms.plugins.picture',
     #'cms.plugins.teaser',
