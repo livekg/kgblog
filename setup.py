@@ -9,11 +9,11 @@ if 'REDISCLOUD_URL' in os.environ and 'REDISCLOUD_PORT' in os.environ and 'REDIS
      packages.append('django-redis-cache')
      packages.append('hiredis')
 
-setup(name='YourAppName',
+setup(name='AnarDjango',
       version='1.0',
       description='OpenShift App',
-      author='Your Name',
-      author_email='example@example.com',
+      author='Anarbek Kalykov',
+      author_email='anarbek@gmail.com',
       url='https://pypi.python.org/pypi',
       install_requires=packages,
 )
