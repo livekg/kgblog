@@ -1,0 +1,7 @@
+<p>
+<h4>Hello {% if request.user.is_authenticated %}
+  {{ request.user.first_name }} {{ request.user.last_name}}
+{% else %}
+  {{ instance.guest_name }}
+{% endif %}</h4>
+</p>

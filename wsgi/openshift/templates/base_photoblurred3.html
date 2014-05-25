@@ -63,13 +63,18 @@
     </header>
     <div id="site_content">
       <div id="sidebar_container">
+          <div class="sidebar">
+              {% placeholder "welcome" or %}
+               {% show_placeholder "welcome" "home" %}
+              {% endplaceholder %}
+          </div>
         <div class="sidebar">
-          <h3>Latest News</h3>
+          <h3>Акыркылар</h3>
           <h4>New Website Launched</h4>
           <h5>December 1st, 2013</h5>
           <p>2013 sees the redesign of our website. <a href="#">Read more</a></p>
         </div>
-        <div class="sidebar">
+        {% comment %}<div class="sidebar">
           <h3>Useful Links</h3>
           <ul>
             <li><a href="#">First Link</a></li>
@@ -86,7 +91,7 @@
             <li><a href="#">And Another</a></li>
             <li><a href="#">Last One</a></li>
           </ul>
-        </div>
+        </div>{% endcomment %}
       </div>
       <div class="content">
 
@@ -112,6 +117,10 @@
       <a title="Scroll to the top" class="top" href="#"><img src="{% static "photo_blurred3/images/top.png" %}" alt="top" /></a>
     </div>
     <footer>
+       {% placeholder "footer" or %}
+       {% show_placeholder "footer" "home" %}
+       {% endplaceholder %}
+
       <p><img src="{% static "photo_blurred3/images/twitter.png" %}" alt="twitter" />&nbsp;<img src="{% static "photo_blurred3/images/facebook.png" %}" alt="facebook" />&nbsp;<img src="{% static "photo_blurred3/images/rss.png" %}" alt="rss" /></p>
       <p><a href="index.html">Home</a> | <a href="examples.html">Examples</a> | <a href="page.html">A Page</a> | <a href="another_page.html">Another Page</a> | <a href="contact.php">Contact Us</a></p>
       <p>Copyright &copy; photo_blurred3 | <a href="http://www.css3templates.co.uk">design from css3templates.co.uk</a></p>

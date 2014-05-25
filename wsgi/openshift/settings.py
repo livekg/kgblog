@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/1.6/ref/settings/
 import os
 import imp
 
+
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 
@@ -82,6 +83,7 @@ INSTALLED_APPS = (
     # Uncomment the next line to enable admin documentation:
     # 'django.contrib.admindocs',
     'easy_thumbnails',
+    'category',
 )
 
 LANGUAGES = [
@@ -147,6 +149,7 @@ TEMPLATE_CONTEXT_PROCESSORS = (
     'django.core.context_processors.request',
     'django.core.context_processors.media',
     'django.core.context_processors.static',
+    'cms.context_processors.media',
     'cms.context_processors.cms_settings',
     'sekizai.context_processors.sekizai',
 )
