@@ -60,6 +60,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.admin',
+    'djangocms_text_ckeditor',  # note this needs to be above the 'cms' entry
     'cms',  # django CMS itself
     'mptt',  # utilities for implementing a modified pre-order traversal tree
     'menus',  # helper for model independent hierarchical website navigation
@@ -69,13 +70,12 @@ INSTALLED_APPS = (
     'django.contrib.messages',  # to enable messages framework (see :ref:`Enable messages <enable-messages>`)
     'djangocms_file',
     'djangocms_flash',
-
     #'cms.plugins.googlemap',
-    #'cms.plugins.picture',
+    'djangocms_picture',
     #'cms.plugins.teaser',
     #'djangocms_link',
     #'djangocms_snippet',
-    'djangocms_text_ckeditor',  # note this needs to be above the 'cms' entry
+
     #'cms.plugins.video',
     # Uncomment the next line to enable the admin:
     # 'django.contrib.admin',
