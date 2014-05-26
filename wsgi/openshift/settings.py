@@ -60,6 +60,7 @@ INSTALLED_APPS = (
     'django.contrib.sites',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'djangocms_admin_style',  # for the admin skin. You **must** add 'djangocms_admin_style' in the list before 'django.contrib.admin'.
     'django.contrib.admin',
     'djangocms_text_ckeditor',  # note this needs to be above the 'cms' entry
     'cms',  # django CMS itself
@@ -67,7 +68,7 @@ INSTALLED_APPS = (
     'menus',  # helper for model independent hierarchical website navigation
     'south',  # intelligent schema and data migrations
     'sekizai',  # for javascript and css management
-    'djangocms_admin_style',  # for the admin skin. You **must** add 'djangocms_admin_style' in the list before 'django.contrib.admin'.
+
     'django.contrib.messages',  # to enable messages framework (see :ref:`Enable messages <enable-messages>`)
     'djangocms_file',
     'djangocms_flash',
