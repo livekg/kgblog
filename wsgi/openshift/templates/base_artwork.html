@@ -1,0 +1,89 @@
+{% load cms_tags sekizai_tags %}
+{% load menu_tags %}
+{% load i18n admin_static %}
+{% load navigation_tags %}
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  {% render_block "css" %}
+  <title>PhotoArtWork</title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <!-- stylesheets -->
+    
+  <link href="{% static "photoartwork/css/style.css" %}" rel="stylesheet" type="text/css" />
+  <link href="{% static "photoartwork/css/dark.css" %}" rel="stylesheet" type="text/css" />
+  <!-- modernizr enables HTML5 elements and feature detects -->
+  <script type="text/javascript" src="{% static "photoartwork/js/modernizr-1.5.min.js"%}"></script>
+</head>
+
+<body>
+{% cms_toolbar %}
+  <div id="main">
+
+    <!-- begin header -->
+    <header>
+      <div id="logo"><h1>PHOTO<a href="#">ART</a>WORK</h1></div>
+      <nav>
+
+        <ul class="sf-menu" id="nav">
+            {% show_menu %}
+          {% comment %}<li class="selected"><a href="index.html">home</a></li>
+          <li><a href="about.html">about me</a></li>
+          <li><a href="#">my portfolio</a>
+            <ul>
+              <li><a href="portfolio_one.html">portfolio_one</a></li>
+              <li><a href="portfolio_two.html">portfolio_two</a></li>
+            </ul>
+          </li>
+          <li><a href="blog.html">blog</a></li>
+          <li><a href="contact.php">contact</a></li>{% endcomment %}
+        </ul>
+      </nav>
+    </header>
+    <!-- end header -->
+
+    <!-- begin content -->
+    <div id="site_content">
+        {% block base_content %}{% endblock %}
+{% comment %}      <ul class="slideshow">
+        <li class="show"><img width="950" height="450" src="{% static "photoartwork/images/home_1.jpg" %}" alt="&quot;You can put a caption for your image right here&quot;" /></li>
+        <li><img width="950" height="450" src="{% static "photoartwork/images/home_2.jpg" %}" alt="&quot;You can put a description of the image here if you like, or anything else if you want.&quot;" /></li>
+        <li><img width="950" height="450" src="{% static "photoartwork/images/home_3.jpg" %}" alt="&quot;You can put a description of the image here if you like, or anything else if you want.&quot;" /></li>
+      </ul>{% endcomment %}
+    </div>
+    <!-- end content -->
+
+      {% comment %}{% placeholder "welcome" or %}
+               {% show_placeholder "welcome" "home" %}
+              {% endplaceholder %}{% endcomment %}
+
+
+    <!-- begin footer -->
+    <footer>
+        {% placeholder "footer" or %}
+            {% show_placeholder "footer" "home" %}
+       {% endplaceholder %}
+
+      <p><img src="{% static "photoartwork/images/twitter.png" %}" alt="twitter" />&nbsp;<img src="{% static "photoartwork/images/facebook.png" %}" alt="facebook" />&nbsp;<img src="{% static "photoartwork/images/rss.png" %}" alt="rss" /></p>
+    </footer>
+    <!-- end footer -->
+
+  </div>
+  <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="{% static "photoartwork/js/jquery.min.js" %}"></script>
+  <script type="text/javascript" src="{% static "photoartwork/js/jquery.easing-sooper.js" %}"></script>
+  <script type="text/javascript" src="{% static "photoartwork/js/jquery.sooperfish.js" %}"></script>
+  <script type="text/javascript" src="{% static "photoartwork/js/image_fade.js" %}"></script>
+  <!-- initialise sooperfish menu -->
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('ul.sf-menu').sooperfish();
+    });
+  </script>
+<!-- Initialize JS Plugins -->
+    {% render_block "js" %}
+</body>
+</html>

@@ -2,10 +2,96 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de37f032-816e-4ccb-af59-ee9d39207ee8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/latest_news.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/category/admin.py" afterPath="$PROJECT_DIR$/category/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base_photoblurred3.html" afterPath="$PROJECT_DIR$/templates/base_photoblurred3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/category/models.py" afterPath="$PROJECT_DIR$/category/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/10_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/10_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/1_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/1_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/2_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/2_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/3_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/3_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/4_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/4_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/5_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/5_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/6_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/6_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/7_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/7_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/8_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/8_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/9_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/9_thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/fonts/NewsCycle-Regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/fonts/NewsCycle-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/fonts/YanoneKaffeesatz-Regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/fonts/YanoneKaffeesatz-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/about.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/contact.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/dark_blog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/dark_bullet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/dark_old.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/home_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/home_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/home_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/image_transparent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/light_blog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/light_bullet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/loader_white.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/next_arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/next_arrow_white.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/prev_arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/prev_arrow_white.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/rss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/fonts/News Cycle SIL OFL Font License 1.1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/base_artwork.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/blog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/blog_2510.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/contact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/css/dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/js/image_fade.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/documentation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/js/jquery.easing-sooper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/js/jquery.galleriffic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/js/jquery.opacityrollover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/js/jquery.sooperfish.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/js/modernizr-1.5.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/css/portfolio_one.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/portfolio_one.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/css/portfolio_two.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/portfolio_two.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/css/style.css" />
+      <change type="DELETED" beforePath="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\openshift\category\template_tags\__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\openshift\category\template_tags\navigation_tags.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/template_1.html" afterPath="$PROJECT_DIR$/templates/template_1.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -29,7 +115,46 @@
     <favorites_list name="openshift" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="template_1.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/template_1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="0" selection-start="164" selection-end="164" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="289">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base_artwork.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/base_artwork.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="23" selection-start="1562" selection-end="1562" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="1462">
+              <folding>
+                <element signature="e#1025#1497#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/menu/menu.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="27" selection-start="398" selection-end="398" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="289">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base_photoblurred3.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/base_photoblurred3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="111" column="29" selection-start="4656" selection-end="4668" vertical-scroll-proportion="-15.692307" vertical-offset="1479" max-vertical-offset="2482">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -61,9 +186,10 @@
         <option value="$PROJECT_DIR$/category/template_tags/__init__.py" />
         <option value="$PROJECT_DIR$/category/template_tags/navigation_tags.py" />
         <option value="$PROJECT_DIR$/category/templatetags/navigation_tags.py" />
-        <option value="$PROJECT_DIR$/templates/template_1.html" />
         <option value="$PROJECT_DIR$/templates/base_photoblurred3.html" />
         <option value="$PROJECT_DIR$/templates/latest_news.html" />
+        <option value="$PROJECT_DIR$/templates/template_1.html" />
+        <option value="$PROJECT_DIR$/templates/base_artwork.html" />
       </list>
     </option>
   </component>
@@ -106,13 +232,15 @@
               <option name="myItemId" value="openshift" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+              <option name="myItemId" value="openshift" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Python 2.7.6 virtualenv at C:\Users\Anarbek\Envs\openshiftanardjango (1) &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+              <option name="myItemId" value="wsgi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -122,6 +250,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="wsgi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static_clear" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="openshift" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wsgi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -171,29 +317,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="category" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="openshift" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wsgi" />
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="openshift" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="category" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templatetags" />
+              <option name="myItemId" value="menu" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -220,6 +348,9 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\static_clear" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\openshift\category" />
       <recent name="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\openshift" />
@@ -491,22 +622,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32686085" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19448946" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26435044" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3987034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30794165" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30794165" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -561,7 +692,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="40" column="42" selection-start="1480" selection-end="1480" vertical-scroll-proportion="0.0" vertical-offset="680" max-vertical-offset="816">
           <folding>
-            <element signature="e#0#44#0" expanded="true" />
+            <element signature="e#0#44#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -594,7 +725,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="65" selection-start="359" selection-end="359" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="306">
           <folding>
-            <element signature="e#0#44#0" expanded="true" />
+            <element signature="e#0#44#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -678,11 +809,6 @@
             <element signature="e#0#51#0" expanded="false" />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/menu/menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="27" selection-start="398" selection-end="398" vertical-scroll-proportion="0.34195402" vertical-offset="0" max-vertical-offset="348" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/category/tests.py">
@@ -772,7 +898,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="23" selection-start="850" selection-end="867" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="816">
           <folding>
-            <element signature="e#0#44#0" expanded="true" />
+            <element signature="e#0#44#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -791,17 +917,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base_photoblurred3.html">
+    <entry file="file://$PROJECT_DIR$/../static_clear/photoartwork/js/image_fade.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="0" selection-start="2719" selection-end="2719" vertical-scroll-proportion="0.8121547" vertical-offset="964" max-vertical-offset="2482">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1207">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../static_clear/photoartwork/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="7" selection-start="0" selection-end="2818" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="1275">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/template_1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="60" selection-end="60" vertical-scroll-proportion="0.09066667" vertical-offset="0" max-vertical-offset="375">
+        <state line="7" column="0" selection-start="164" selection-end="164" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="289">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/menu/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="27" selection-start="398" selection-end="398" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base_photoblurred3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="29" selection-start="4656" selection-end="4668" vertical-scroll-proportion="-15.692307" vertical-offset="1479" max-vertical-offset="2482">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base_artwork.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="23" selection-start="1562" selection-end="1562" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="1462">
+          <folding>
+            <element signature="e#1025#1497#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
