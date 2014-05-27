@@ -1,6 +1,7 @@
 {% load cms_tags sekizai_tags %}
 {% load menu_tags %}
 {% load i18n admin_static %}
+{% load navigation_tags %}
 <!DOCTYPE HTML>
 <html>
 
@@ -70,9 +71,7 @@
           </div>
         <div class="sidebar">
           <h3>Акыркылар</h3>
-          <h4>New Website Launched</h4>
-          <h5>December 1st, 2013</h5>
-          <p>2013 sees the redesign of our website. <a href="#">Read more</a></p>
+            {% cms_latest_news %}
         </div>
         {% comment %}<div class="sidebar">
           <h3>Useful Links</h3>

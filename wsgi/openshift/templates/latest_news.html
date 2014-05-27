@@ -1,0 +1,9 @@
+<ul>
+    {% for page in cms_pages %}
+        <li>
+        <h4>{{ page.get_title }}</h4>
+          {% comment %}<h5>December 1st, 2013</h5>{% endcomment %}
+          {% comment %}<p>2013 sees the redesign of our website. <a href="#">Read more</a></p>{% endcomment %}
+        </li>
+    {% endfor %}    
+</ul>
