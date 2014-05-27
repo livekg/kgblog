@@ -2,97 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de37f032-816e-4ccb-af59-ee9d39207ee8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/10_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/10_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/1_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/1_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/2_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/2_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/3_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/3_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/4_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/4_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/5_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/5_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/6_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/6_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/7_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/7_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/8_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/8_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_one/9_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/portfolio_two/9_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/fonts/NewsCycle-Regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/fonts/NewsCycle-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/fonts/YanoneKaffeesatz-Regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/fonts/YanoneKaffeesatz-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/about.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/calendar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/contact.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/dark_blog.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/dark_bullet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/dark_old.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/home_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/home_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/home_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/image_transparent.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/light_blog.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/light_bullet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/loader_white.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/next_arrow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/next_arrow_white.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/prev_arrow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/prev_arrow_white.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/rss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/images/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/fonts/News Cycle SIL OFL Font License 1.1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/base_artwork.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/blog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/blog_2510.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/contact.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/css/dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/js/image_fade.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/documentation/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/js/jquery.easing-sooper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/js/jquery.galleriffic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/js/jquery.opacityrollover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/js/jquery.sooperfish.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/js/modernizr-1.5.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/css/portfolio_one.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/portfolio_one.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/css/portfolio_two.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/portfolio_two.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../static_clear/photoartwork/css/style.css" />
       <change type="DELETED" beforePath="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\openshift\category\template_tags\__init__.py" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\openshift\category\template_tags\navigation_tags.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/template_1.html" afterPath="$PROJECT_DIR$/templates/template_1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base_artwork.html" afterPath="$PROJECT_DIR$/templates/base_artwork.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.py" afterPath="$PROJECT_DIR$/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="openshift.iws" />
@@ -116,10 +29,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="template_1.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/template_1.html">
+      <file leaf-file-name="gallery.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/cmsplugin_gallery/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="164" selection-end="164" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="289">
+            <state line="1" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="595">
               <folding />
             </state>
           </provider>
@@ -128,28 +41,10 @@
       <file leaf-file-name="base_artwork.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/base_artwork.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="23" selection-start="1562" selection-end="1562" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="1462">
+            <state line="27" column="28" selection-start="899" selection-end="899" vertical-scroll-proportion="0.27546296" vertical-offset="340" max-vertical-offset="1377">
               <folding>
-                <element signature="e#1025#1497#0" expanded="false" />
+                <element signature="e#1022#1494#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="menu.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/menu/menu.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="27" selection-start="398" selection-end="398" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="289">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base_photoblurred3.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/base_photoblurred3.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="111" column="29" selection-start="4656" selection-end="4668" vertical-scroll-proportion="-15.692307" vertical-offset="1479" max-vertical-offset="2482">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -178,7 +73,6 @@
         <option value="$PROJECT_DIR$/templates/cms/plugins/hello_plugin.html" />
         <option value="$PROJECT_DIR$/templates/cms/page/change_form.html" />
         <option value="$PROJECT_DIR$/templates/admin/cms/page/change_form.html" />
-        <option value="$PROJECT_DIR$/settings.py" />
         <option value="$PROJECT_DIR$/category/context_processors.py" />
         <option value="$PROJECT_DIR$/category/cms_toolbar.py" />
         <option value="$PROJECT_DIR$/category/admin.py" />
@@ -189,6 +83,9 @@
         <option value="$PROJECT_DIR$/templates/base_photoblurred3.html" />
         <option value="$PROJECT_DIR$/templates/latest_news.html" />
         <option value="$PROJECT_DIR$/templates/template_1.html" />
+        <option value="$PROJECT_DIR$/settings.py" />
+        <option value="$PROJECT_DIR$/templates/cmsplugin_gallery.html" />
+        <option value="$PROJECT_DIR$/templates/cmsplugin_gallery/gallery.html" />
         <option value="$PROJECT_DIR$/templates/base_artwork.html" />
       </list>
     </option>
@@ -231,6 +128,10 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="openshift" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -321,7 +222,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="menu" />
+              <option name="myItemId" value="cmsplugin_gallery" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -352,11 +253,11 @@
       <recent name="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\static_clear" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\openshift\templates\cmsplugin_gallery" />
       <recent name="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\openshift\category" />
       <recent name="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\openshift" />
       <recent name="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\openshift\templates\cms" />
       <recent name="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\openshift\templates\admin" />
-      <recent name="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\openshift\templates\cms\plugins" />
     </key>
   </component>
   <component name="RunManager" selected="Django server.openshift">
@@ -625,9 +526,9 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19448946" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19448946" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3273906" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26435044" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -887,13 +788,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="9" selection-start="355" selection-end="364" vertical-scroll-proportion="0.3314917" vertical-offset="118" max-vertical-offset="4794">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/category/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="23" selection-start="850" selection-end="867" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="816">
@@ -931,13 +825,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/template_1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="164" selection-end="164" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="289">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/menu/menu.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="27" selection-start="398" selection-end="398" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="289">
@@ -952,11 +839,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/template_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="164" selection-end="164" vertical-scroll-proportion="0.26741573" vertical-offset="0" max-vertical-offset="445">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="24" selection-start="2684" selection-end="2684" vertical-scroll-proportion="0.70742357" vertical-offset="1138" max-vertical-offset="4828">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/openshiftanardjango/Lib/site-packages/cmsplugin_gallery/templates/cmsplugin_gallery/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="11" selection-start="0" selection-end="547" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/cmsplugin_gallery/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/base_artwork.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="23" selection-start="1562" selection-end="1562" vertical-scroll-proportion="0.0" vertical-offset="612" max-vertical-offset="1462">
+        <state line="27" column="28" selection-start="899" selection-end="899" vertical-scroll-proportion="0.27546296" vertical-offset="340" max-vertical-offset="1377">
           <folding>
-            <element signature="e#1025#1497#0" expanded="false" />
+            <element signature="e#1022#1494#0" expanded="false" />
           </folding>
         </state>
       </provider>

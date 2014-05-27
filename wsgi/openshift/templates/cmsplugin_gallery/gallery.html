@@ -1,0 +1,29 @@
+{% load thumbnail %}
+      <ul class="slideshow">
+          {% for image in images %}
+        <li class="show">
+            {% comment %}<img width="950" height="450" src="{% static "photoartwork/images/home_1.jpg" %}" alt="&quot;You can put a caption for your image right here&quot;" />{% endcomment %}
+            <img src="{% thumbnail image.src 950x450 crop %}" alt="{{ image.alt }}" title="{{ image.title }}" rel="#cmspluginGalleryImage{{ image.pk }}" />
+        </li>
+        {% comment %}<li><img width="950" height="450" src="{% static "photoartwork/images/home_2.jpg" %}" alt="&quot;You can put a description of the image here if you like, or anything else if you want.&quot;" /></li>
+        <li><img width="950" height="450" src="{% static "photoartwork/images/home_3.jpg" %}" alt="&quot;You can put a description of the image here if you like, or anything else if you want.&quot;" /></li>{% endcomment %}
+          {% endfor %}
+      </ul>
+{% comment %}
+<div class="gallery" id="cmspluginGallery{{ gallery.pk }}">
+	{% for image in images %}
+		<div>
+			<img src="{% thumbnail image.src 115x80 crop %}" alt="{{ image.alt }}" title="{{ image.title }}" rel="#cmspluginGalleryImage{{ image.pk }}" />
+		</div>
+	{% endfor %}
+</div>
+
+{% for image in images %}
+<div class="simple_overlay" id="cmspluginGalleryImage{{ image.pk }}">
+	<img src="{{ image.src.url }}" />
+</div>
+{% endfor %}
+
+<script type="text/javascript">
+	jQuery('#cmspluginGallery{{ gallery.pk }} img').overlay();
+</script>{% endcomment %}
