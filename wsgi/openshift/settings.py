@@ -188,6 +188,7 @@ TEMPLATE_DIRS = (
 CMS_TEMPLATES = (
     ('template_1.html', 'Template One'),
     ('template_2.html', 'Template Two'),
+    ('template_gallery_one.html', 'Gallery Template One'),
 )
 
 # Database

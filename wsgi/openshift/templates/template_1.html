@@ -1,11 +1,14 @@
 {% extends "base_artwork.html" %}
 {% load cms_tags %}
+{% load static %}
 
 {% block base_content %}
 
   <h1>{% placeholder header_content %}</h1>
   {% placeholder template_1_content %}
+{% endblock %}
 
-
+{% block extra_css %}
+    <script type="text/javascript" src="{% static "photoartwork/js/image_fade.js" %}"></script>
 {% endblock %}
 

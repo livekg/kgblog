@@ -15,6 +15,7 @@
     
   <link href="{% static "photoartwork/css/style.css" %}" rel="stylesheet" type="text/css" />
   <link href="{% static "photoartwork/css/dark.css" %}" rel="stylesheet" type="text/css" />
+    {% block extra_css %}{% endblock %}
   <!-- modernizr enables HTML5 elements and feature detects -->
   <script type="text/javascript" src="{% static "photoartwork/js/modernizr-1.5.min.js"%}"></script>
 </head>
@@ -71,13 +72,14 @@
   <script type="text/javascript" src="{% static "photoartwork/js/jquery.min.js" %}"></script>
   <script type="text/javascript" src="{% static "photoartwork/js/jquery.easing-sooper.js" %}"></script>
   <script type="text/javascript" src="{% static "photoartwork/js/jquery.sooperfish.js" %}"></script>
-  <script type="text/javascript" src="{% static "photoartwork/js/image_fade.js" %}"></script>
+
   <!-- initialise sooperfish menu -->
   <script type="text/javascript">
     $(document).ready(function() {
       $('ul.sf-menu').sooperfish();
     });
   </script>
+     {% block extra_js %}{% endblock %}
 <!-- Initialize JS Plugins -->
     {% render_block "js" %}
 </body>
