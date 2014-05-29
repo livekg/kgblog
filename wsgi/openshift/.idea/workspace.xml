@@ -5,8 +5,6 @@
       <change type="DELETED" beforePath="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\openshift\category\template_tags\__init__.py" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\openshift\category\template_tags\navigation_tags.py" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\openshift\templates\cmsplugin_gallery\cmsplugin_gallery.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base_artwork.html" afterPath="$PROJECT_DIR$/templates/base_artwork.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.py" afterPath="$PROJECT_DIR$/settings.py" />
     </list>
     <ignored path="openshift.iws" />
     <ignored path=".idea/workspace.xml" />
