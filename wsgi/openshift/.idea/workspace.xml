@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de37f032-816e-4ccb-af59-ee9d39207ee8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/cmsplugin_gallery/gallery_one.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_gallery_one.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/cmsplugin_gallery/gallery_two.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/template_gallery_two.html" />
       <change type="DELETED" beforePath="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\openshift\category\template_tags\__init__.py" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\openshift\category\template_tags\navigation_tags.py" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\openshift\templates\cmsplugin_gallery\cmsplugin_gallery.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base_artwork.html" afterPath="$PROJECT_DIR$/templates/base_artwork.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.py" afterPath="$PROJECT_DIR$/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/template_1.html" afterPath="$PROJECT_DIR$/templates/template_1.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="openshift.iws" />
@@ -32,78 +30,7 @@
     <favorites_list name="openshift" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="gallery.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/cmsplugin_gallery/gallery.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="155" selection-start="316" selection-end="459" vertical-scroll-proportion="-0.0" vertical-offset="85" max-vertical-offset="595">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base_artwork.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/base_artwork.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="0" selection-start="2702" selection-end="2702" vertical-scroll-proportion="-3.2692308" vertical-offset="1020" max-vertical-offset="1411">
-              <folding>
-                <element signature="e#1062#1534#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gallery_one.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/cmsplugin_gallery/gallery_one.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="26" selection-start="401" selection-end="401" vertical-scroll-proportion="0.28176796" vertical-offset="102" max-vertical-offset="629">
-              <folding>
-                <element signature="n#style#0;n#div#3;n#div#1;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template_gallery_one.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/template_gallery_one.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="19" selection-start="34" selection-end="53" vertical-scroll-proportion="-0.32692307" vertical-offset="0" max-vertical-offset="1139">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template_1.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/template_1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="43" selection-start="101" selection-end="142" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="340">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="200" column="32" selection-start="6365" selection-end="6365" vertical-scroll-proportion="0.0" vertical-offset="3060" max-vertical-offset="4845">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="menu.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/menu/menu.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="12" selection-start="502" selection-end="502" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="289">
-              <folding>
-                <marker date="1400971248945" expanded="true" signature="241:488" placeholder="..." />
-                <marker date="1400971248945" expanded="true" signature="375:469" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -139,19 +66,21 @@
         <option value="$PROJECT_DIR$/templates/cmsplugin_gallery.html" />
         <option value="$PROJECT_DIR$/templates/cmsplugin_gallery/gallery.html" />
         <option value="$PROJECT_DIR$/templates/menu/sooperfish1.html" />
-        <option value="$PROJECT_DIR$/settings.py" />
         <option value="$PROJECT_DIR$/templates/template_gallery_one.html" />
         <option value="$PROJECT_DIR$/templates/base_artwork.html" />
         <option value="$PROJECT_DIR$/templates/template_1.html" />
         <option value="$PROJECT_DIR$/templates/cmsplugin_gallery/gallery_one.html" />
+        <option value="$PROJECT_DIR$/settings.py" />
+        <option value="$PROJECT_DIR$/templates/template_gallery_two.html" />
+        <option value="$PROJECT_DIR$/templates/cmsplugin_gallery/gallery_two.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="1" />
-    <option name="width" value="1364" />
-    <option name="height" value="726" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -179,6 +108,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -233,53 +163,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="openshift" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wsgi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="openshift" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="menu" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="openshift" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wsgi" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="openshift" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cmsplugin_gallery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,6 +186,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\openshift\templates\cmsplugin_gallery" />
       <recent name="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\openshift\templates" />
       <recent name="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\openshift\templates\menu" />
       <recent name="C:\Users\Anarbek\Documents\My Web Sites\openshifttest\anardjango\wsgi\static_clear" />
@@ -398,7 +284,27 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="openshift" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
@@ -424,27 +330,7 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="openshift" />
-      <option name="launchJavascriptDebuger" value="false" />
-      <option name="port" value="8000" />
-      <option name="host" value="" />
-      <option name="additionalOptions" value="" />
-      <option name="browserUrl" value="" />
-      <option name="runTestServer" value="false" />
-      <option name="runNoReload" value="false" />
-      <option name="useCustomRunCommand" value="false" />
-      <option name="customRunCommand" value="" />
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -575,28 +461,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1364" height="726" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19375673" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3273906" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38744256" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2736954" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3987034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20868114" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20775028" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -628,22 +514,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/cmsplugin_gallery/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="595">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base_artwork.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="25" selection-start="896" selection-end="899" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="1377">
-          <folding>
-            <element signature="e#1062#1534#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/template_1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="37" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="340">
@@ -881,8 +751,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="12" selection-start="502" selection-end="502" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="289">
           <folding>
-            <marker date="1400971248945" expanded="true" signature="241:488" placeholder="..." />
-            <marker date="1400971248945" expanded="true" signature="375:469" placeholder="..." />
+            <marker date="1400971248945" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1400971248945" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -894,49 +764,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/cmsplugin_gallery/gallery.html">
+    <entry file="file://$PROJECT_DIR$/templates/template_1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="155" selection-start="316" selection-end="459" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="595">
+        <state line="6" column="43" selection-start="101" selection-end="142" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="340">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.py">
+    <entry file="file://$PROJECT_DIR$/templates/cmsplugin_gallery/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="200" column="32" selection-start="6365" selection-end="6365" vertical-scroll-proportion="0.0" vertical-offset="3060" max-vertical-offset="4845">
+        <state line="5" column="155" selection-start="316" selection-end="459" vertical-scroll-proportion="0.09837963" vertical-offset="0" max-vertical-offset="864">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/base_artwork.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="0" selection-start="2702" selection-end="2702" vertical-scroll-proportion="-3.2692308" vertical-offset="1020" max-vertical-offset="1411">
-          <folding>
-            <element signature="e#1062#1534#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/template_1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="43" selection-start="101" selection-end="142" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="340">
+        <state line="74" column="0" selection-start="2702" selection-end="2702" vertical-scroll-proportion="-37.576923" vertical-offset="281" max-vertical-offset="1564">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/template_gallery_one.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="19" selection-start="34" selection-end="53" vertical-scroll-proportion="-0.32692307" vertical-offset="0" max-vertical-offset="1139">
+        <state line="1" column="19" selection-start="34" selection-end="53" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="1139">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="191" column="27" selection-start="6138" selection-end="6138" vertical-scroll-proportion="0.0" vertical-offset="2550" max-vertical-offset="4862">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/template_gallery_two.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="38" selection-start="1073" selection-end="1073" vertical-scroll-proportion="-13.884615" vertical-offset="64" max-vertical-offset="1564">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/cmsplugin_gallery/gallery_two.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="14" selection-start="1152" selection-end="1152" vertical-scroll-proportion="0.6461988" vertical-offset="0" max-vertical-offset="684">
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/cmsplugin_gallery/gallery_one.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="26" selection-start="401" selection-end="401" vertical-scroll-proportion="0.28176796" vertical-offset="102" max-vertical-offset="629">
-          <folding>
-            <element signature="n#style#0;n#div#3;n#div#1;n#!!top" expanded="true" />
-          </folding>
+        <state line="14" column="37" selection-start="458" selection-end="483" vertical-scroll-proportion="0.34795323" vertical-offset="0" max-vertical-offset="684">
+          <folding />
         </state>
       </provider>
     </entry>
