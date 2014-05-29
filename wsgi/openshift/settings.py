@@ -87,6 +87,14 @@ INSTALLED_APPS = (
     'easy_thumbnails',
     'cmsplugin_gallery',
     'category',
+    'aldryn_blog',
+    'aldryn_common',
+    'django_select2',
+    'filer',
+    'taggit',
+    # for search
+    #'aldryn_search',
+    #'haystack',
 )
 
 LANGUAGES = [
@@ -157,7 +165,13 @@ TEMPLATE_CONTEXT_PROCESSORS = (
     'sekizai.context_processors.sekizai',
 )
 
-
+THUMBNAIL_PROCESSORS = (
+    'easy_thumbnails.processors.colorspace',
+    'easy_thumbnails.processors.autocrop',
+    #'easy_thumbnails.processors.scale_and_crop',
+    'filer.thumbnail_processors.scale_and_crop_with_subject_location',
+    'easy_thumbnails.processors.filters',
+)
 
 # If you want configure the REDISCLOUD
 if 'REDISCLOUD_URL' in os.environ and 'REDISCLOUD_PORT' in os.environ and 'REDISCLOUD_PASSWORD' in os.environ:
@@ -278,7 +292,6 @@ STATICFILES_FINDERS = (
 SOUTH_MIGRATION_MODULES = {
         'easy_thumbnails': 'easy_thumbnails.south_migrations',
     }
-
 
 #SEO SETTINGS FOR DJANGO-CMS
 CMS_SEO_FIELDS = True
