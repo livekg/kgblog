@@ -253,7 +253,7 @@ LOGGING = {
         'file': {
             'level': 'DEBUG',
             'class': 'logging.FileHandler',
-            'filename': os.environ.get(MEDIA_ROOT, 'debug.log'),
+            'filename': os.path.join(MEDIA_ROOT, 'debug.log'),
         },
     },
     'loggers': {
