@@ -51,6 +51,61 @@ if DEBUG:
 else:
      ALLOWED_HOSTS = ['*']
 
+
+# Static files (CSS, JavaScript, Images)
+# https://docs.djangoproject.com/en/1.6/howto/static-files/
+STATIC_ROOT = os.path.join(BASE_DIR, '..', 'static')
+STATIC_URL = '/static/'
+
+STATIC_CLEAR_ROOT = os.path.join(BASE_DIR, '..', 'static_clear')
+
+if ON_OPENSHIFT:
+    MEDIA_ROOT = os.environ.get('OPENSHIFT_DATA_DIR', '')
+else:
+    MEDIA_ROOT = os.path.join(BASE_DIR, '..', 'media')
+MEDIA_URL = "/media/"
+
+# A sample logging configuration. The only tangible logging
+# performed by this configuration is to send an email to
+# the site admins on every HTTP 500 error when DEBUG=False.
+# See http://docs.djangoproject.com/en/dev/topics/logging for
+# more details on how to customize your logging configuration.
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    'handlers': {
+        'file': {
+            'level': 'DEBUG',
+            'class': 'logging.FileHandler',
+            'filename': os.path.join(MEDIA_ROOT, 'debug.log'),
+        },
+    },
+    'loggers': {
+        'django.request': {
+            'handlers': ['file'],
+            'level': 'DEBUG',
+            'propagate': True,
+        },
+    },
+}
+
+
+# Additional locations of static files
+STATICFILES_DIRS = (
+    # Put strings here, like "/home/html/static" or "C:/www/django/static".
+    # Always use forward slashes, even on Windows.
+    # Don't forget to use absolute paths, not relative paths.
+    STATIC_CLEAR_ROOT,
+)
+
+# List of finder classes that know how to find static files in
+# various locations.
+STATICFILES_FINDERS = (
+    'django.contrib.staticfiles.finders.AppDirectoriesFinder',
+    'django.contrib.staticfiles.finders.FileSystemFinder',    
+#    'django.contrib.staticfiles.finders.DefaultStorageFinder',
+)
+
 # Application definition
 
 INSTALLED_APPS = (
@@ -226,61 +281,6 @@ USE_L10N = True
 
 # If you set this to False, Django will not use timezone-aware datetimes.
 USE_TZ = True
-
-
-# Static files (CSS, JavaScript, Images)
-# https://docs.djangoproject.com/en/1.6/howto/static-files/
-STATIC_ROOT = os.path.join(BASE_DIR, '..', 'static')
-STATIC_URL = '/static/'
-
-STATIC_CLEAR_ROOT = os.path.join(BASE_DIR, '..', 'static_clear')
-
-if ON_OPENSHIFT:
-    MEDIA_ROOT = os.environ.get('OPENSHIFT_DATA_DIR', '')
-else:
-    MEDIA_ROOT = os.path.join(BASE_DIR, '..', 'media')
-MEDIA_URL = "/media/"
-
-# A sample logging configuration. The only tangible logging
-# performed by this configuration is to send an email to
-# the site admins on every HTTP 500 error when DEBUG=False.
-# See http://docs.djangoproject.com/en/dev/topics/logging for
-# more details on how to customize your logging configuration.
-LOGGING = {
-    'version': 1,
-    'disable_existing_loggers': False,
-    'handlers': {
-        'file': {
-            'level': 'DEBUG',
-            'class': 'logging.FileHandler',
-            'filename': os.path.join(MEDIA_ROOT, 'debug.log'),
-        },
-    },
-    'loggers': {
-        'django.request': {
-            'handlers': ['file'],
-            'level': 'DEBUG',
-            'propagate': True,
-        },
-    },
-}
-
-
-# Additional locations of static files
-STATICFILES_DIRS = (
-    # Put strings here, like "/home/html/static" or "C:/www/django/static".
-    # Always use forward slashes, even on Windows.
-    # Don't forget to use absolute paths, not relative paths.
-    STATIC_CLEAR_ROOT,
-)
-
-# List of finder classes that know how to find static files in
-# various locations.
-STATICFILES_FINDERS = (
-    'django.contrib.staticfiles.finders.FileSystemFinder',
-    'django.contrib.staticfiles.finders.AppDirectoriesFinder',
-#    'django.contrib.staticfiles.finders.DefaultStorageFinder',
-)
 
 SOUTH_MIGRATION_MODULES = {
         'easy_thumbnails': 'easy_thumbnails.south_migrations',
